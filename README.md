@@ -1,2 +1,2 @@
 # Youtube-Channels
-Training materials and courses
+My Training courses on Youtube
